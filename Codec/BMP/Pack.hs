@@ -1,3 +1,4 @@
+{-# LANGUAGE ScopedTypeVariables #-}
 {-# OPTIONS_HADDOCK hide #-}
 module Codec.BMP.Pack
         ( packRGBA32ToBMP

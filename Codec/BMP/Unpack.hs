@@ -1,3 +1,5 @@
+{-# LANGUAGE BangPatterns        #-}
+{-# LANGUAGE ScopedTypeVariables #-}
 {-# OPTIONS_HADDOCK hide #-}
 module Codec.BMP.Unpack
 	(unpackBMPToRGBA32)
