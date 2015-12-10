@@ -1,6 +1,8 @@
 bmp
 ===
 
+[![Build Status](https://travis-ci.org/benl23x5/bmp.svg?branch=master)](https://travis-ci.org/benl23x5/bmp)
+
 Reading and writing uncompressed BMP files.
 
 * Supports uncompressed 24bit RGB and 32bit RGBA WindowsV3, WindowsV4 and WindowsV5 formats.
